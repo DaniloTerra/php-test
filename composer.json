@@ -1,0 +1,12 @@
+{
+    "name": "dterra/php-test",
+    "require": {
+        "paragonie/csp-builder": "^1.3"
+    },
+    "authors": [
+        {
+            "name": "Danilo Terra",
+            "email": "danilo_terra@live.com"
+        }
+    ]
+}
